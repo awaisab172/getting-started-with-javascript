@@ -20,7 +20,7 @@
     "cors": "^2.8.4",
     "debug": "~2.6.3",
     "ejs": "~2.5.6",
-    "express": "~4.15.2",
+    "express": "~4.20.0",
     "jsonfile": "3.0.1",
     "lodash": "4.0.0",
     "markdown-it": "^8.4.0",
