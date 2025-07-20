@@ -9,8 +9,8 @@
     "jsonfile": "3.0.1",
     "lodash": "4.0.0",
     "mkdirp": "^0.5.1",
-    "rimraf": "^2.5.4",
-    "superagent": "^3.6.0"
+    "rimraf": "^4.3.1",
+    "superagent": "^10.2.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
